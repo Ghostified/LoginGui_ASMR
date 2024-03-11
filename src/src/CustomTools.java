@@ -17,5 +17,3 @@ public class CustomTools {
         return null;
     }
 }
-
-

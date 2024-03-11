@@ -3,6 +3,7 @@ package Custom;
 import  javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
+import java.util.jar.Attributes;
 
 //this class will be used to limit the character input in the field
 public class LimitText extends PlainDocument {
